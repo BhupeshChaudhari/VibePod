@@ -1,6 +1,6 @@
-# PodHub - Podcast Streaming WebApp
+# VibePod - Podcast Streaming WebApp
 
-PodHub is a podcast hosting platform built with modern web technologies including React, Node.js, MongoDB, and Express. It also integrates Firebase for video storage. also has Google Authentication, password recovery, and OTP validation.
+VibePod is a podcast hosting platform built with modern web technologies including React, Node.js, MongoDB, and Express. It also integrates Firebase for video storage. also has Google Authentication, password recovery, and OTP validation.
 ## Features
 
 - **User Authentication :** Sign up and log in using Google authentication.
@@ -20,8 +20,8 @@ PodHub is a podcast hosting platform built with modern web technologies includin
 
 1. Clone the repository :
 ```
-   git clone https://github.com/BhupeshChaudhari/PodHub.git
-   cd PodHub
+   git clone https://github.com/BhupeshChaudhari/VibePod.git
+   cd VibePod
 ```
 
 2. Install dependencies for both client and server : 
